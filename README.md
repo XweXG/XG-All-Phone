@@ -34,6 +34,7 @@ An offline phone-spec library and comparison tool: model browser, chip ranking, 
 - 英文界面版 / English UI: https://raw.githubusercontent.com/XweXG/XG-All-Phone/main/XG_All_Phone_EN.html
 
 ## 下载 / Downloads
+- GitHub Release（APK + EXE 直链 / direct links）: https://github.com/XweXG/XG-All-Phone/releases/tag/v1.7
 - Windows EXE (390MB) 飞书 / Feishu: https://my.feishu.cn/file/MaC1btCHJo3rwMxuwkfcRK3Tnfh
 - 轻量包（含 APK 与网页版 / APK and web）飞书 / Feishu: https://my.feishu.cn/file/M4IdbPkOxoQIiVxo95WcBbwYn1g
 - 蓝奏云小包 / Lanzou: https://wwayi.lanzoum.com/isC4V4gwjajg （密码 / password: 9miw）
