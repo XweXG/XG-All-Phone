@@ -29,6 +29,15 @@ An offline phone-spec library and comparison tool: model browser, chip ranking, 
 - 未联网核实的参数按规则留空，不编造；海外版/Lite/T 系列无国行首发价，价格留空。
 - 界面中文版与英文版数据完全相同，仅界面语言不同。
 
+## 在线访问 / Online Access
+- 中文网页（浏览器直接打开）/ Chinese web, open directly in browser: https://raw.githubusercontent.com/XweXG/XG-All-Phone/main/XG_All_Phone.html
+- 英文界面版 / English UI: https://raw.githubusercontent.com/XweXG/XG-All-Phone/main/XG_All_Phone_EN.html
+
+## 下载 / Downloads
+- Windows EXE (390MB) 飞书 / Feishu: https://my.feishu.cn/file/MaC1btCHJo3rwMxuwkfcRK3Tnfh
+- 轻量包（含 APK 与网页版 / APK and web）飞书 / Feishu: https://my.feishu.cn/file/M4IdbPkOxoQIiVxo95WcBbwYn1g
+- 蓝奏云小包 / Lanzou: https://wwayi.lanzoum.com/isC4V4gwjajg （密码 / password: 9miw）
+
 ## 重建（开发）/ Rebuild (dev)
 1. `python src/build_final_html.py` 生成 HTML / build HTML
 2. `python src/verify_final_html.py` 校验 / verify
